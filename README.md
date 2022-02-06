@@ -19,6 +19,6 @@
     ไม่ต้องเขียนโปรแกรมใหม่อีกกว่า 10,000 รายการ
   #### **iotset1**
     การเตรียมเพื่อพัฒนา microcontroller
-    ##### **เปิด browser เข้าลิงก์ https://github.com/choompol-boonmee/iotset1**
+    เปิด browser เข้าลิงก์ https://github.com/choompol-boonmee/iotset1
     เพื่อ download โปรแกรม git หลังจากนั้นให้ทำตามคำสั่งในลิงก์
 ### **Experiment**
